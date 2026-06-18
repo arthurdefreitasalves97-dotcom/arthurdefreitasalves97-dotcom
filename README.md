@@ -1,0 +1,31 @@
+# 👋 Olá, eu sou Arthur Freitas
+
+🎓 Estudante de Engenharia de Software - Unicesumar
+
+💻 Atualmente estudando:
+- Java
+- SQL
+- Git e GitHub
+- Banco de Dados
+
+🔐 Interesse em:
+- Segurança Cibernética
+- Desenvolvimento de Software
+
+🚀 Objetivo:
+Conseguir minha primeira oportunidade na área de Tecnologia.
+
+## 🛠 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 Estatísticas
+
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdefreitasalves97-dotcom&show_icons=true)
+
+## 📫 Contato
+
+📧 arthurdefreitasalves97@gmail.com
