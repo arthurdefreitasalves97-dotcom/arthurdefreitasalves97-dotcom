@@ -29,3 +29,10 @@ Conseguir minha primeira oportunidade na área de Tecnologia.
 ## 📫 Contato
 
 📧 arthurdefreitasalves97@gmail.com
+
+## 🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurdefreitasalves97-dotcom/arthurdefreitasalves97-dotcom/output/github-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/arthurdefreitasalves97-dotcom/arthurdefreitasalves97-dotcom/output/github-snake.svg">
+</picture>
