@@ -28,6 +28,19 @@ Conseguir minha primeira oportunidade na área de Tecnologia.
 
 ## 📫 Contato
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>GIF</title>
+</head>
+<body>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyYXk1YXV2ZjY3MWtra2cxZHp1MjFxdHZiMDlhbzI2cTRlYnc2YTV0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"
+         alt="GIF"
+         style="max-width:100%; height:auto;">
+</body>
+</html>
+
 📧 arthurdefreitasalves97@gmail.com
 
 ## 🐍 Minhas Contribuições
